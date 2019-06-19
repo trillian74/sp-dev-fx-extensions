@@ -8,7 +8,7 @@ Sample SharePoint Framework command set showing how to create a new meeting to d
 
 ## Used SharePoint Framework Version
 
-![SPFx v1.3](https://img.shields.io/badge/SPFx-1.3-green.svg)
+![SPFx v1.4.1](https://img.shields.io/badge/SPFx-1.4.1-green.svg)
 
 ## Applies to
 
@@ -26,6 +26,7 @@ react-command-discuss-now|Paolo Pialorsi (MCM, MVP, [PiaSys.com](https://piasys.
 Version|Date|Comments
 -------|----|--------
 1.0.0|September 28, 2017|Initial release
+1.1.0|July 18, 2018|Upgraded to SPFx 1.4.1
 
 ## Disclaimer
 

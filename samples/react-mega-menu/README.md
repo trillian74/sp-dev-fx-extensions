@@ -49,7 +49,7 @@ The sample has basic session caching to improve the performance of the React meg
 Since SharePoint list is used to store the menu items is relatively easy to change or add a menu item or change or add new menu category.
 
 ## Used SharePoint Framework Version 
-![drop](https://img.shields.io/badge/drop-1.3.0-green.svg)
+![drop](https://img.shields.io/badge/drop-1.7.0-green.svg)
 
 ## Applies to
 
@@ -73,6 +73,10 @@ react-mega-menu | Velin Georgiev ([@VelinGeorgiev](https://twitter.com/velingeor
 Version|Date|Comments
 -------|----|--------
 0.0.1|October 24, 2017 | Initial commit
+0.1.0|August 3, 2018  | Updated to SPFx 1.5.1 and @pnp 5.6.0
+0.1.1|October 10, 2018  | Updated to SPFx 1.6.0 and @pnp 1.2.2
+0.1.2|December 10, 2018  | Updated to SPFx 1.7.0 and @pnp 1.2.7
+
 
 ## Disclaimer
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
@@ -84,7 +88,6 @@ Version|Date|Comments
 - Clone this repository.
 - Open the command line, navigate to the web part folder and execute:
     - `npm i`
-    - `gulp test` (optional)
     - `gulp serve --nobrowser`
 - Navigate to SharePoint Online modern document library or list and add the following additional parameters in the query string.
 ```bash 
